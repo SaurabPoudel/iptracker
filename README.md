@@ -6,9 +6,9 @@ Made using goLang cobra-cli
 
 ![Screen 1](https://github.com/SaurabPoudel/iptracker/blob/main/screen1.png)
 
-![Screen 2](ttps://github.com/SaurabPoudel/iptracker/blob/main/screen2.png)
+![Screen 2](https://github.com/SaurabPoudel/iptracker/blob/main/screen2.png)
 
-![Screen 3](ttps://github.com/SaurabPoudel/iptracker/blob/main/screen3.png)
+![Screen 3](https://github.com/SaurabPoudel/iptracker/blob/main/screen3.png)
 
 
 
